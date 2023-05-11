@@ -17,8 +17,7 @@
 body{
   width:100%;
   height: 100vh;
-  background-image: url(
-  /profile/images/background.png);
+  background-image: url("/profile/images/background.png");
   background-size: cover;
   margin-top: 0;
   cursor: url(/profile/cursor/pngegg.cur),auto;
